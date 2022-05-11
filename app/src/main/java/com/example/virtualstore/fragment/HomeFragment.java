@@ -41,11 +41,6 @@ public class HomeFragment extends Fragment {
         recyclerViewCaltegory();
         recyclerViewPopular();
 
-
-//        RecyclerView recyclerViewCateorylist= view.findViewById(R.id.recyclerView_caltegories);
-//        RecyclerView.LayoutManager layoutManager= new LinearLayoutManager(getActivity(),RecyclerView.HORIZONTAL,false);
-//        recyclerViewCateorylist.setLayoutManager(layoutManager);
-
     }
 
     private void recyclerViewPopular() {
