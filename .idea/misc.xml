@@ -20,6 +20,23 @@
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/layout/fragment_product.xml" value="0.2962962962962963" />
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/layout/popular_viewholder.xml" value="0.264" />
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/menu/main_activity_navigation.xml" value="0.1962962962962963" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/drawable/bg_profile_name.xml" value="0.143" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/drawable/edit_text_bg.xml" value="0.143" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/drawable/login_bg.xml" value="0.143" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_register.xml" value="0.24010416666666667" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_register_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_setup_profile.xml" value="0.25" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/activity_wellcome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/category_viewholder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/fragment_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/popular_viewholder.xml" value="0.4" />
+        <entry key="..\:/Virtual_Store/app/src/main/res/layout/text_location.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Virtual Store</string>
+    <string name="Location">Location</string>
+    
+    <string-array name="Location">
+        <item>PhnomPenh</item>
+        <item>Banteymenchay</item>
+        <item>SiemReap</item>
+        <item>Kompot</item>
+        <item>Kep</item>
+        <item>Kandel</item>
+        <item>Takev</item>
+        <item>Presvihear</item>
+        <item>Khorkong</item>
+        <item>Bantombang</item>
+        <item>Posart</item>
+        <item>Kompongchang</item>
+        <item>kompongthom</item>
+
+
+
+    </string-array>
+
 </resources>
