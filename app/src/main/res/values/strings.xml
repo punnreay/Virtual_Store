@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Virtual Store</string>
+    <string name="profile_screen">Profile</string>
+
+    <string name="username">Username</string>
+    <string name="user_gmail">username@gmail.com</string>
+    <string name="my_address">My Address</string>
+    <string name="order_history">Order History</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="help_center">Help Center</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="product">Product</string>
+    <string name="profile">Profile</string>
 </resources>
