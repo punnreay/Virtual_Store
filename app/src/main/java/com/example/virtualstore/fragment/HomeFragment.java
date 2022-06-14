@@ -46,9 +46,9 @@ public class HomeFragment extends Fragment {
     private void recyclerViewPopular() {
         arraylist = new ArrayList<>();
         arraylist.add(new popularData("iPhone 13 Pro Max", R.drawable.iphone_13_pro, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1099.00));
-        arraylist.add(new popularData("iPhone 13 Pro Max", R.drawable.iphone_13_pro, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1099.00));
-        arraylist.add(new popularData("iPhone 13 Pro Max", R.drawable.iphone_13_pro, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1099.00));
-        arraylist.add(new popularData("iPhone 13 Pro Max", R.drawable.iphone_13_pro, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1099.00));
+        arraylist.add(new popularData("Canon DSLR", R.drawable.camera, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1599.00));
+        arraylist.add(new popularData("27 IPS panel monitor", R.drawable.monitor, "iPhone 13 Pro Max do not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.", 1085.00));
+
 
 
         popularAdapter popularAdapter = new popularAdapter(arraylist);
@@ -62,11 +62,9 @@ public class HomeFragment extends Fragment {
 
 
         arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
-        arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
-        arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
-        arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
-        arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
-        arrayList.add(new caltegotyDATA("Smart Phone", R.drawable.smart_phone));
+        arrayList.add(new caltegotyDATA("Computer", R.drawable.computer));
+        arrayList.add(new caltegotyDATA("Camera", R.drawable.camera));
+        arrayList.add(new caltegotyDATA("Apparel", R.drawable.t_shert));
 
         caltegoryAdapter caltegoryAdapter = new caltegoryAdapter(arrayList);
         recyclerViewCal.setAdapter(caltegoryAdapter);
