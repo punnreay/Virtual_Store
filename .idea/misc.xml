@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_project/Android/app/src/main/res/drawable-anydpi/ic_edit.xml" value="0.199" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.199" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.199" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/drawable/btn_background.xml" value="0.199" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.199" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/activity_wellcome.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/fragment_product.xml" value="0.25" />
+        <entry key="..\:/Android_project/Android/app/src/main/res/layout/popular_viewholder.xml" value="0.25" />
+        <entry key="..\:/Android_project/Virtual_Store/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Android_project/Virtual_Store/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Android_project/Virtual_Store/app/src/main/res/layout/activity_wellcome.xml" value="0.25" />
+        <entry key="..\:/Android_project/Virtual_Store/app/src/main/res/layout/fragment_account.xml" value="0.25" />
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16574074074074074" />
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/drawable/bg_search.xml" value="0.21435185185185185" />
         <entry key="..\:/ITE/VirtualStore/app/src/main/res/drawable/bg_text.xml" value="0.21435185185185185" />
