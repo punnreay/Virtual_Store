@@ -14,7 +14,7 @@ public class wellcome extends AppCompatActivity {
         setContentView(R.layout.activity_wellcome);
     }
     public void onGetstart(View view){
-        Intent intent = new Intent(this,MainActivity.class);
+        Intent intent = new Intent(this,Login.class);
         startActivity(intent);
 
     }
